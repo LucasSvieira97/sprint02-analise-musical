@@ -31,7 +31,7 @@ sprint02-analise-musical/
 
 ## ▶️ Como visualizar
 
-👉 [Abrir no Google Colab](https://colab.research.google.com/github/LucasSvieira97/sprint02-analise-musical/blob/main/notebook.ipynb)
+👉 [Abrir no Google Colab](https://colab.research.google.com/github/LucasSvieira97/sprint02-analise-musical/blob/main/notebook_02.ipynb)
 
 ## 📌 Resultado
 
